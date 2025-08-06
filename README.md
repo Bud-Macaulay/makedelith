@@ -1,4 +1,4 @@
-# Make Delith structures - For thesis Chapter 1 section 3
+# Make Delith structures - For thesis Chapter 3.3 - 3.4
 
 Contains a messy script to remove sites from an ordered structure. Uses symmetry to reduce the total system size and the total number of crystals.
 
